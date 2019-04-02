@@ -2,7 +2,7 @@
 Proyecto SIGP - Ingeniería de Software
 
 # Integrantes 
-Laryan Guaico\n
+Laryan Guaico
 Jorge Jimenez
 Samuel Jara
 Javier Briones
