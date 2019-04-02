@@ -2,10 +2,10 @@
 Proyecto SIGP - Ingeniería de Software
 
 ## Integrantes 
--Laryan Guaico
--Jorge Jimenez
--Samuel Jara
--Javier Briones
--Gabriel Gonzalez
+- Laryan Guaico
+- Jorge Jimenez
+- Samuel Jara
+- Javier Briones
+- Gabriel Gonzalez
 
-#Cronograma para Hito 1
+# Cronograma para Hito 1
