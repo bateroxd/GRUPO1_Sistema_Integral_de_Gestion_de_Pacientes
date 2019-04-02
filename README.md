@@ -9,3 +9,5 @@ Proyecto SIGP - Ingeniería de Software
 - Gabriel Gonzalez
 
 # Cronograma para Hito 1
+# bitbucket ´code´
+** git clone || git add (agrega todo) || git config user.email _@_ || git commit -m "inicio" (descripcion del cambio) || git push origin master || git pull 
