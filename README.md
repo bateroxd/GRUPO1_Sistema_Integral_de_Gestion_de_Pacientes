@@ -1,6 +1,7 @@
 # GRUPO1_Sistema_Integral_de_Gestion_de_Pacientes
 Proyecto SIGP - Ingeniería de Software
-Integrantes: 
+
+# Integrantes 
   Laryan Guaico
   Jorge Jimenez
   Samuel Jara
